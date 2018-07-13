@@ -12,5 +12,3 @@ class Shoe
    @color= color
  end
 end
-
- puts Shoe.color = "red"
