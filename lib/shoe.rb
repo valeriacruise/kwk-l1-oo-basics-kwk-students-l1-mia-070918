@@ -15,4 +15,4 @@ class Shoe
   
 end
 
-puts red.color
+puts Shoe.color
