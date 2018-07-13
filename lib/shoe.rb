@@ -9,5 +9,8 @@ class Shoe
   end
  
  attr_accessor :color, :size, :material, :condition
-  puts "The Shoe has been repaired."
+ 
+ attr_reader :cobble
 end
+
+puts shoe.cobble = "The shoe has been repaired."
