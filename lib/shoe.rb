@@ -8,7 +8,5 @@ class Shoe
     @brand
   end
  
- def color=(color)
-   @color= color
- end
+ attr_accessor :color
 end
