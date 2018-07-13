@@ -9,4 +9,5 @@ class Shoe
   end
  
  attr_accessor :color, :size, :material, :condition
+  puts "The Shoe has been repaired."
 end
