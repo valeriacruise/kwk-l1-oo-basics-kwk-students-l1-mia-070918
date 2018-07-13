@@ -1,4 +1,4 @@
 
 class Shoe
-  
+  initialize 
 end
