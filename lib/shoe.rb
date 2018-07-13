@@ -9,5 +9,6 @@ class Shoe
   end
  
  attr_accessor :color, :size, :material, :condition
- 
+  def cobble
+  end
 end
