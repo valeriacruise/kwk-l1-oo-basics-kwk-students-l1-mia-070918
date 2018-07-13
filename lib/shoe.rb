@@ -14,3 +14,5 @@ class Shoe
  
   
 end
+
+puts red.color
