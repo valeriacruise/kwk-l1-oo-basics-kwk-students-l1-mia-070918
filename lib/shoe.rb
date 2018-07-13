@@ -11,5 +11,3 @@ class Shoe
  attr_accessor :color, :size, :material, :condition
  
 end
-
-puts shoe.condition = "The shoe has been repaired."
