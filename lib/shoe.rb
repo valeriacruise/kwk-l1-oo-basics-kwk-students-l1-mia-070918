@@ -9,8 +9,8 @@ class Shoe
     brand
   end
  
- def color= red
-   @color= color
+ def color= color
+   @color= "red"
  end
  
   
