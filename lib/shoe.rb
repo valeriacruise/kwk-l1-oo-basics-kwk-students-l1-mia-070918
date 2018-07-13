@@ -8,7 +8,7 @@ class Shoe
     @brand
   end
  
- def setter_method= (color)
+ def color= (color)
    @color= color
  end
  
