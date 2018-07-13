@@ -5,7 +5,8 @@ class Shoe
   end
   
   def brand
-    @brand
+    @
+    brand
   end
  
  def color= red
